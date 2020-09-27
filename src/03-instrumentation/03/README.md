@@ -1,0 +1,1 @@
+# Implementação de Logs centralizados com ELK
